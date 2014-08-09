@@ -1,0 +1,19 @@
+{
+  "manifest_version": 2,
+  "name": "drunken-octo-wookie",
+  "short_name": "drunken-octo-wookie",
+  "description": "Description for drunken-octo-wookie",
+
+  "version": "0.0.1.0",
+
+  "icons": {
+    "16": "assets/images/icon_16.png",
+    "128": "assets/images/icon_128.png"
+  },
+
+  "app": {
+    "background": {
+      "scripts": ["assets/js/background.js"]
+    }
+  }
+}
